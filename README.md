@@ -1,0 +1,1 @@
+# minikube-as-CI
